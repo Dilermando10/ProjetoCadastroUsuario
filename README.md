@@ -1,5 +1,6 @@
 #  Projeto Cadastro de Usuários
 
+Autenticacão - https://www.projetojavaweb.com/certificado-aluno/chave/$2a$10$dbEIuZnb
 
 # Sobre o projeto
 
@@ -13,6 +14,11 @@ A aplicação consiste em um Cadastro de usuários onde você pode Salvar,Editar
 ![Mobile 1](https://user-images.githubusercontent.com/92057517/149792227-2017b2cc-8f94-4d69-8330-7f10097363b4.png) 
 
 # Tecnologias utilizadas
+API REST
+End-Point POST, PUT, DELETE e GET
+Configuração com Maven
+Ajax com JQuery para API
+
 ## Back end
 - Java
 - Spring Boot
